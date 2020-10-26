@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: lxdblog.com
+url: https://lxdblog.com
 date_format: "ordinal"
 title: blog
 subtitle: "刘旭东的博客"
