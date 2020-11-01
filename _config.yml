@@ -11,7 +11,7 @@ keywords: lxd,菜鸡程序员
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
-repository: mzlogin/mzlogin.github.io
+repository: lxdgogogo/lxdgogogo.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -113,7 +113,7 @@ disqus:
     username: 
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: lxd
     repo: blog-comments
     oauth:
         client_id: d2e1cbbd298958076462
