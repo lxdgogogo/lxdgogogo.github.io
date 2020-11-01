@@ -5,7 +5,7 @@ categories: myself
 description: myself
 keywords: lxd
 ---
-## 1.关于我自己
+## 关于我自己
 
 嗨,你好!欢迎来到我的博客！  
 我叫刘旭东，目前在哈尔滨工业大学读书。  
