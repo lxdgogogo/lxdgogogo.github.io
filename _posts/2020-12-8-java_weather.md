@@ -1,10 +1,12 @@
 ---
 layout: post
-title: 用Android studio实现天气温度的获取
+title: 用fastjson实现天气温度的获取
 categories: 安卓开发, 天气
 description: myself
 keywords: lxd
 ---
+
+## 在Android Studio环境下获取天气的温度
 
 ## 需求  
 
