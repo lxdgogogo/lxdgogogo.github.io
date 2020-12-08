@@ -22,7 +22,6 @@ keywords: lxd
 
 我这里需要的是温度的数值，因此代码里只输出了温度的数值。需要其他的数值可以自行修改，代码中json1就是经解析得到的json文件
 
-
     public class ExampleUnitTest {
 
         private String dealResponseResult(InputStream inputStream) {
